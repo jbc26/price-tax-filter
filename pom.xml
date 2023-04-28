@@ -11,10 +11,10 @@
   </parent>
 
   <groupId>com.inditex</groupId>
-  <artifactId>priceTax</artifactId>
+  <artifactId>price-tax-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>priceTax</name>
+  <name>price-tax-service</name>
   <description>Project to filter priceTax register</description>
 
   <properties>
